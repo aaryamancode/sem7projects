@@ -3,28 +3,28 @@ List of assignments and projects done during the 7th semester of undergrad in DT
 
 Data Warehouse and Data mining:
 
-  Project- flight delay prediction
+    Project- flight delay prediction
   
-  Case study- criminal record data analysis
+    Case study- criminal record data analysis
 
 
 Information and Network Security:
 
-  Credit card fraud detection
+    Credit card fraud detection
 
 
 Swarm and Evolutionary Computing:
 
-  Route optimization using ACO
+    Route optimization using ACO
   
 Wireless and Mobile computing:
 
-  Comparative study of various MANET protocols
+    Comparative study of various MANET protocols
 
 
 Minor Project:
 
-  Clickbait detection
+    Clickbait detection
   
 
 
